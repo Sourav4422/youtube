@@ -8,13 +8,14 @@
 }
 
 #form{
-    margin-top: 65px;
-    margin-right: 150px;
+    margin-top: 4%;
+    margin-right: 1%;
 }
 
 #search
 {
     border-radius: 15px;
+    width: 88%;
     padding: 2px 2px 2px 20px;
 }
 
@@ -27,4 +28,5 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    box-sizing: border-box;
 }
