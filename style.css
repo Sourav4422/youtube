@@ -1,0 +1,30 @@
+#head{
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo{
+    width: 100%;
+}
+
+#form{
+    margin-top: 65px;
+    margin-right: 150px;
+}
+
+#search
+{
+    border-radius: 15px;
+    padding: 2px 2px 2px 20px;
+}
+
+#icon{
+    font-size: 1.5em;
+}
+
+#main
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
